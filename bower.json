@@ -1,0 +1,28 @@
+{
+  "name": "okc-energy_news",
+  "description": "Lastest news about Okc Energy",
+  "main": "./bin/www",
+  "authors": [
+    "Rawle Juglal <rawledjuglal@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/heroku/node-js-getting-started",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angular-resource": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "components-font-awesome": "^4.7.0"
+  }
+}
